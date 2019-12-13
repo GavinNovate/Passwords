@@ -1,7 +1,8 @@
-package net.novate.passwords
+package net.novate.passwords.ui
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
+import net.novate.passwords.R
 import net.novate.passwords.ui.main.MainFragment
 
 class MainActivity : AppCompatActivity() {
